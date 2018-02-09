@@ -68,9 +68,6 @@ tk.update()
 ball = Ball(canvas, 'red')
 paddle = Paddle(canvas, 'blue')
 
-while True:
-    pass
-
 while 1:
     ball.draw()
     paddle.draw()
