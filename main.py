@@ -2,6 +2,9 @@ from tkinter import *
 import random
 import time
 
+#comment!
+
+
 class Ball:
     def __init__(self, canvas, color):
         self.canvas = canvas
@@ -51,6 +54,7 @@ class Paddle:
     def turn_right(self, evt):
         self.x = 2
 
+#comment2
 
 tk = Tk()
 tk.title('THE GAME!!!')
