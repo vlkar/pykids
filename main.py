@@ -56,6 +56,7 @@ class Paddle:
 
 #comment2
 
+
 tk = Tk()
 tk.title('THE GAME!!!')
 tk.resizable(0, 0)
@@ -66,6 +67,9 @@ tk.update()
 
 ball = Ball(canvas, 'red')
 paddle = Paddle(canvas, 'blue')
+
+while True:
+    pass
 
 while 1:
     ball.draw()
