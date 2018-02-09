@@ -2,7 +2,7 @@ from tkinter import *
 import random
 import time
 
-#comment!
+#comment added on web
 
 
 class Ball:
@@ -67,9 +67,6 @@ tk.update()
 
 ball = Ball(canvas, 'red')
 paddle = Paddle(canvas, 'blue')
-
-while True:
-    pass
 
 while 1:
     ball.draw()
