@@ -55,8 +55,7 @@ class Paddle:
     def turn_right(self, evt):
         self.x = 2
 
-#comment2
-
+#comment2dddhjd
 
 tk = Tk()
 tk.title('THE GAME!!!')
