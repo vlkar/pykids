@@ -2,7 +2,7 @@ from tkinter import *
 import random
 import time
 
-#comment!
+#comment added on web
 
 
 class Ball:
